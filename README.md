@@ -12,3 +12,5 @@ https://karlyweatherstein.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Karly Weatherstein
+
+### ©️2019 Run Buddy, Inc
