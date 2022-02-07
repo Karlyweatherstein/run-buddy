@@ -18,6 +18,7 @@ body {
 /*apply styles to <header> */
 header {
   padding: 20px 35px;
+
   background-color: var(--tertiary-color);
   display: flex;
   justify-content: space-between;
@@ -37,6 +38,7 @@ header h1 {
   font-size: 36px;
   color: var(--primary-color);
   margin: 0;
+
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -99,11 +101,15 @@ footer a {
 
 section {
   padding: 60px;
+
 }
+
 
 /*Hero Style Start*/
 .hero {
+
   background-image: url("../images/hero-bg.jpg");
+
   background-size: cover;
   background-position: 80%;
   display: flex;
@@ -126,6 +132,7 @@ section {
   font-style: italic;
   font-size: 55px;
   color: var(--primary-color);
+
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -170,9 +177,6 @@ section {
   outline: none;
 }
 
-.hero-form label {
-  margin: 0 5px;
-}
 
 .hero-form button {
   color: var(--primary-color);
